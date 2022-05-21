@@ -1,0 +1,5 @@
+name: Stormtrooper
+version: '${version}'
+main: me.byteful.plugin.stormtrooper.StormtrooperPlugin
+author: byteful
+description: Make skeletons have bad aim. Nerf skeletons once and for all!

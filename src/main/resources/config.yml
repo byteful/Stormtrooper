@@ -1,0 +1,12 @@
+#
+# Stormtrooper v${version} by byteful#0001
+#
+
+# How accurate should skeleton aim be? The lower the number, the more accurate. Must be >= 0 and <= 1.
+accuracy: 0.7
+
+# Should this affect skeletons?
+skeletons: true
+
+# Should this affect players?
+players: false
