@@ -1,3 +1,6 @@
+<a href="https://www.spigotmc.org/resources/stormtrooper-nerf-skeletons.102135/"><p align="center">SpigotMC Resource</p></a>
+<a href="https://discord.gg/G8BDgqsuyw"><p align="center">Discord Support Server</p></a>
+
 ![Logo](https://github.com/byteful/Stormtrooper/blob/master/Big%20Logo.png)
 
 <h2 align="center">Nerf skeletons once and for all!</h2>
